@@ -45,10 +45,10 @@ All results are stored in the `results/` directory.
 
 ## Contact
 
-Rahul Sajith Pillai
+   Rahul Sajith Pillai
 
-PhD Researcher – Ulster University
+   PhD Researcher – Ulster University
 
-W: pillai-rs@ulster.ac.uk
-P: rahulspillai047@gmail.com
-[LinkedIn](linkedin.com/in/rahul-sajith-p-02a7b6a3)
+   W: pillai-rs@ulster.ac.uk
+   P: rahulspillai047@gmail.com
+   [LinkedIn]linkedin.com/in/rahul-sajith-p-02a7b6a3)
