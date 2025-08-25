@@ -51,5 +51,5 @@ All results are stored in the `results/` directory.
    
    Email: pillai-rs@ulster.ac.uk
 
-   [LinkedIn](linkedin.com/in/rahul-sajith-p-02a7b6a3)
+   [LinkedIn](www.linkedin.com/in/rahul-sajith-p-02a7b6a3)
 
