@@ -49,6 +49,6 @@ Rahul Sajith Pillai
 
 PhD Researcher – Ulster University
 
-pillai-rs@ulster.ac.uk
-rahulspillai047@gmail.com
+W: pillai-rs@ulster.ac.uk
+P: rahulspillai047@gmail.com
 [LinkedIn](linkedin.com/in/rahul-sajith-p-02a7b6a3)
